@@ -1,0 +1,9 @@
+https://github.com/Monse091/Examen-3er-parcial.git
+
+-INSTRUCCIONES-
+"Python manage.py createsuperuser"
+"dar los datos que pide"
+"Correr Python manage.py run server"
+"ir a la dirección que envía y escribir /admin"
+"crear una ciudad y guardar" 
+"una vez creada la ciudad ir a la dirección que te da el servidor sin /admin"

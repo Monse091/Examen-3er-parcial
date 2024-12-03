@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reloj Mundial</title>
+</head>
+<body>
+    <h1>Reloj Mundial</h1>
+    <ul>
+        {% for hora in horas_actualizadas %}
+        <li>{{ hora }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
